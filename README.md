@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+A new Flutter project which objective is making transferences. Simulating a digital bank.
 
 ## Getting Started
 
